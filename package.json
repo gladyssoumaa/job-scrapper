@@ -1,0 +1,24 @@
+{
+  "name": "job-scraper",
+  "version": "1.0.0",
+  "description": "A TypeScript job scraper with AI-powered skill extraction",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "tsx src/index.ts",
+    "dev": "tsx watch src/index.ts",
+    "build": "tsc"
+  },
+  "dependencies": {
+    "axios": "^1.12.2",
+    "cheerio": "^1.1.2",
+    "csv-parse": "^7.0.3",
+    "dotenv": "^18.0.5",
+    "groq-sdk": "^1.6.0",
+    "robots-parser": "^3.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^24.7.2",
+    "tsx": "^4.23.15",
+    "typescript": "^5.9.2"
+  }
+}
