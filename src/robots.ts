@@ -15,7 +15,7 @@ export async function checkRobotsTxt(targetUrl: string): Promise<boolean> {
 
   const robots = robotsParser(ROBOTS_URL, response.data);
 
-  const allowed = robots.isAllowed(targetUrl, USER_AGENT);
+  const allowed = robots.isAllowed(targetUrl, USER_AGENT)?? false;
 
   if (allowed) {
     console.log(`Allowed to scrape: ${targetUrl}`);

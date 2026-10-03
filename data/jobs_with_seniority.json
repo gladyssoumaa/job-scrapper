@@ -1,5 +1,402 @@
 [
   {
+    "id": "https://weworkremotely.com/remote-jobs/dataannotation-tech-ft-pt-remote-ai-prompt-engineering-evaluation-will-train",
+    "title": "FT/PT Remote AI Prompt Engineering & Evaluation - Will Train",
+    "company": "DataAnnotation.tech",
+    "location": "New York, NY",
+    "date": "New",
+    "description": "FT/PT Remote AI Prompt Engineering & Evaluation - Will Train at DataAnnotation.tech. Location: New York, NY.",
+    "url": "https://weworkremotely.com/remote-jobs/dataannotation-tech-ft-pt-remote-ai-prompt-engineering-evaluation-will-train",
+    "tags": [
+      "Featured",
+      "Contract",
+      "North America Only",
+      "EMEA Only",
+      "Asia Only"
+    ],
+    "seniority": "Entry-Level"
+  },
+  {
+    "id": "https://weworkremotely.com/remote-jobs/lawnstarter-analytics-engineering-manager-data-platform-governance-2",
+    "title": "Analytics Engineering Manager, Data Platform & Governance",
+    "company": "LawnStarter",
+    "location": "Mexico",
+    "date": "2d",
+    "description": "Analytics Engineering Manager, Data Platform & Governance at LawnStarter. Location: Mexico.",
+    "url": "https://weworkremotely.com/remote-jobs/lawnstarter-analytics-engineering-manager-data-platform-governance-2",
+    "tags": [
+      "Featured",
+      "Top 100",
+      "Full-Time",
+      "Anywhere in the World"
+    ],
+    "seniority": "Manager"
+  },
+  {
+    "id": "https://weworkremotely.com/remote-jobs/capital-placement-remote-internships",
+    "title": "Remote Internships",
+    "company": "Capital Placement",
+    "location": "London, UK",
+    "date": "4d",
+    "description": "Remote Internships at Capital Placement. Location: London, UK.",
+    "url": "https://weworkremotely.com/remote-jobs/capital-placement-remote-internships",
+    "tags": [
+      "Featured",
+      "Full-Time",
+      "Anywhere in the World"
+    ],
+    "seniority": "Entry-Level"
+  },
+  {
+    "id": "https://weworkremotely.com/remote-jobs/toptal-enterprise-sales-development-representative",
+    "title": "Enterprise Sales Development Representative",
+    "company": "Toptal",
+    "location": "remote",
+    "date": "3d",
+    "description": "Enterprise Sales Development Representative at Toptal. Location: remote.",
+    "url": "https://weworkremotely.com/remote-jobs/toptal-enterprise-sales-development-representative",
+    "tags": [
+      "Boosted",
+      "Featured",
+      "Top 100",
+      "Full-Time",
+      "Anywhere in the World"
+    ],
+    "seniority": "Entry-Level"
+  },
+  {
+    "id": "https://weworkremotely.com/remote-jobs/toptal-client-advisor",
+    "title": "Client Advisor",
+    "company": "Toptal",
+    "location": "remote",
+    "date": "3d",
+    "description": "Client Advisor at Toptal. Location: remote.",
+    "url": "https://weworkremotely.com/remote-jobs/toptal-client-advisor",
+    "tags": [
+      "Boosted",
+      "Featured",
+      "Top 100",
+      "Full-Time",
+      "Anywhere in the World"
+    ],
+    "seniority": "Mid-Level"
+  },
+  {
+    "id": "https://weworkremotely.com/remote-jobs/prove-sales-engineer-partnerships",
+    "title": "Sales Engineer - Partnerships",
+    "company": "Prove",
+    "location": "United States (Remote)",
+    "date": "4d",
+    "description": "Sales Engineer - Partnerships at Prove. Location: United States (Remote).",
+    "url": "https://weworkremotely.com/remote-jobs/prove-sales-engineer-partnerships",
+    "tags": [
+      "Boosted",
+      "Featured",
+      "Full-Time",
+      "Anywhere in the World"
+    ],
+    "seniority": "Mid-Level"
+  },
+  {
+    "id": "https://weworkremotely.com/remote-jobs/lawnstarter-analytics-engineering-manager-data-platform-governance-1",
+    "title": "Analytics Engineering Manager, Data Platform & Governance",
+    "company": "LawnStarter",
+    "location": "Mexico",
+    "date": "15d",
+    "description": "Analytics Engineering Manager, Data Platform & Governance at LawnStarter. Location: Mexico.",
+    "url": "https://weworkremotely.com/remote-jobs/lawnstarter-analytics-engineering-manager-data-platform-governance-1",
+    "tags": [
+      "Featured",
+      "Top 100",
+      "Full-Time",
+      "Anywhere in the World"
+    ],
+    "seniority": "Manager"
+  },
+  {
+    "id": "https://weworkremotely.com/remote-jobs/lawnstarter-analytics-engineering-manager-data-platform-governance",
+    "title": "Analytics Engineering Manager, Data Platform & Governance",
+    "company": "LawnStarter",
+    "location": "Mexico",
+    "date": "15d",
+    "description": "Analytics Engineering Manager, Data Platform & Governance at LawnStarter. Location: Mexico.",
+    "url": "https://weworkremotely.com/remote-jobs/lawnstarter-analytics-engineering-manager-data-platform-governance",
+    "tags": [
+      "Featured",
+      "Top 100",
+      "Full-Time",
+      "Anywhere in the World"
+    ],
+    "seniority": "Manager"
+  },
+  {
+    "id": "https://weworkremotely.com/remote-jobs/lawnstarter-software-engineering-manager-6",
+    "title": "Software Engineering Manager",
+    "company": "LawnStarter",
+    "location": "Mexico",
+    "date": "29d",
+    "description": "Software Engineering Manager at LawnStarter. Location: Mexico.",
+    "url": "https://weworkremotely.com/remote-jobs/lawnstarter-software-engineering-manager-6",
+    "tags": [
+      "Featured",
+      "Top 100",
+      "Full-Time",
+      "Anywhere in the World"
+    ],
+    "seniority": "Manager"
+  },
+  {
+    "id": "https://weworkremotely.com/remote-jobs/aitrainers-remote-ai-trainers-generalist-finance-law-and-swe",
+    "title": "Remote AI Trainers (Generalist, Finance, Law, and SWE)",
+    "company": "AITrainers",
+    "location": "Delaware",
+    "date": "7d",
+    "description": "Remote AI Trainers (Generalist, Finance, Law, and SWE) at AITrainers. Location: Delaware.",
+    "url": "https://weworkremotely.com/remote-jobs/aitrainers-remote-ai-trainers-generalist-finance-law-and-swe",
+    "tags": [
+      "Featured",
+      "Contract",
+      "🇦🇺 Australia",
+      "🇨🇦 Canada",
+      "🇨🇭 Switzerland",
+      "🇬🇧 United Kingdom of Great Britain and Northern Ireland",
+      "🇮🇪 Ireland",
+      "🇳🇿 New Zealand",
+      "🇺🇸 United States of America"
+    ],
+    "seniority": "Entry-Level"
+  },
+  {
+    "id": "https://weworkremotely.com/remote-jobs/prowritersites-freelance-writer",
+    "title": "Freelance Writer",
+    "company": "ProWriterSites",
+    "location": "New York",
+    "date": "13d",
+    "description": "Freelance Writer at ProWriterSites. Location: New York.",
+    "url": "https://weworkremotely.com/remote-jobs/prowritersites-freelance-writer",
+    "tags": [
+      "Featured",
+      "Contract",
+      "Anywhere in the World"
+    ],
+    "seniority": "Unknown"
+  },
+  {
+    "id": "https://weworkremotely.com/remote-jobs/databricks-solutions-architect",
+    "title": "Solutions Architect",
+    "company": "Databricks",
+    "location": "Remote",
+    "date": "15d",
+    "description": "Solutions Architect at Databricks. Location: Remote.",
+    "url": "https://weworkremotely.com/remote-jobs/databricks-solutions-architect",
+    "tags": [
+      "Featured",
+      "Full-Time",
+      "$100,000 or more USD",
+      "🇺🇸 United States of America"
+    ],
+    "seniority": "Senior"
+  },
+  {
+    "id": "https://weworkremotely.com/remote-jobs/6sense-senior-customer-success-manager",
+    "title": "Senior Customer Success Manager",
+    "company": "6sense",
+    "location": "Remote",
+    "date": "15d",
+    "description": "Senior Customer Success Manager at 6sense. Location: Remote.",
+    "url": "https://weworkremotely.com/remote-jobs/6sense-senior-customer-success-manager",
+    "tags": [
+      "Featured",
+      "Full-Time",
+      "$100,000 or more USD",
+      "🇺🇸 United States of America"
+    ],
+    "seniority": "Senior"
+  },
+  {
+    "id": "https://weworkremotely.com/remote-jobs/empire-assets-junior-crypto-analyst-trader",
+    "title": "Junior Crypto Analyst & Trader",
+    "company": "EMPIRE ASSETS",
+    "location": "EMPIRE ASSETS",
+    "date": "17d",
+    "description": "Junior Crypto Analyst & Trader at EMPIRE ASSETS. Location: EMPIRE ASSETS.",
+    "url": "https://weworkremotely.com/remote-jobs/empire-assets-junior-crypto-analyst-trader",
+    "tags": [
+      "Boosted",
+      "Featured",
+      "Full-Time",
+      "$50,000 - $74,999 USD",
+      "Anywhere in the World"
+    ],
+    "seniority": "Junior"
+  },
+  {
+    "id": "https://weworkremotely.com/remote-jobs/collibra-director-global-payroll",
+    "title": "Director, Global Payroll",
+    "company": "Collibra",
+    "location": "Remote",
+    "date": "22d",
+    "description": "Director, Global Payroll at Collibra. Location: Remote.",
+    "url": "https://weworkremotely.com/remote-jobs/collibra-director-global-payroll",
+    "tags": [
+      "Featured",
+      "Full-Time",
+      "$100,000 or more USD",
+      "🇺🇸 United States of America"
+    ],
+    "seniority": "Executive"
+  },
+  {
+    "id": "https://weworkremotely.com/remote-jobs/toptal-professional-photoshop-artists",
+    "title": "Professional Photoshop Artists",
+    "company": "Toptal",
+    "location": "remote",
+    "date": "21d",
+    "description": "Professional Photoshop Artists at Toptal. Location: remote.",
+    "url": "https://weworkremotely.com/remote-jobs/toptal-professional-photoshop-artists",
+    "tags": [
+      "Boosted",
+      "Featured",
+      "Top 100",
+      "Contract",
+      "Anywhere in the World"
+    ],
+    "seniority": "Unknown"
+  },
+  {
+    "id": "https://weworkremotely.com/remote-jobs/nvidia-global-immigration-specialist",
+    "title": "Global Immigration Specialist",
+    "company": "NVIDIA",
+    "location": "Remote",
+    "date": "24d",
+    "description": "Global Immigration Specialist at NVIDIA. Location: Remote.",
+    "url": "https://weworkremotely.com/remote-jobs/nvidia-global-immigration-specialist",
+    "tags": [
+      "Featured",
+      "Full-Time",
+      "$100,000 or more USD",
+      "🇨🇦 Canada",
+      "🇺🇸 United States of America"
+    ],
+    "seniority": "Mid-Level"
+  },
+  {
+    "id": "https://weworkremotely.com/remote-jobs/zoom-solutions-consultant",
+    "title": "Solutions Consultant",
+    "company": "Zoom",
+    "location": "Remote",
+    "date": "24d",
+    "description": "Solutions Consultant at Zoom. Location: Remote.",
+    "url": "https://weworkremotely.com/remote-jobs/zoom-solutions-consultant",
+    "tags": [
+      "Featured",
+      "Full-Time",
+      "$100,000 or more USD",
+      "🇺🇸 United States of America"
+    ],
+    "seniority": "Mid-Level"
+  },
+  {
+    "id": "https://weworkremotely.com/remote-jobs/nogigiddy-remote-data-entry-clerk-7",
+    "title": "Remote Data Entry Clerk",
+    "company": "NoGigiddy",
+    "location": "Atlanta, Georgia",
+    "date": "26d",
+    "description": "Remote Data Entry Clerk at NoGigiddy. Location: Atlanta, Georgia.",
+    "url": "https://weworkremotely.com/remote-jobs/nogigiddy-remote-data-entry-clerk-7",
+    "tags": [
+      "Featured",
+      "Top 100",
+      "Contract",
+      "Anywhere in the World"
+    ],
+    "seniority": "Entry-Level"
+  },
+  {
+    "id": "https://weworkremotely.com/remote-jobs/clover-health-commercial-partnerships-operations-director",
+    "title": "Commercial Partnerships & Operations Director",
+    "company": "Clover Health",
+    "location": "NY, United States",
+    "date": "New",
+    "description": "Commercial Partnerships & Operations Director at Clover Health. Location: NY, United States.",
+    "url": "https://weworkremotely.com/remote-jobs/clover-health-commercial-partnerships-operations-director",
+    "tags": [
+      "Full-Time",
+      "Anywhere in the World"
+    ],
+    "seniority": "Senior"
+  },
+  {
+    "id": "https://weworkremotely.com/remote-jobs/anthropic-community-engagement-manager-data-centers-texas",
+    "title": "Community Engagement Manager, Data Centers (Texas)",
+    "company": "Anthropic",
+    "location": "Remote-Friendly, United States; San Francisco, CA | New York City, NY | Washington, DC",
+    "date": "New",
+    "description": "Community Engagement Manager, Data Centers (Texas) at Anthropic. Location: Remote-Friendly, United States; San Francisco, CA | New York City, NY | Washington, DC.",
+    "url": "https://weworkremotely.com/remote-jobs/anthropic-community-engagement-manager-data-centers-texas",
+    "tags": [
+      "Full-Time",
+      "🇺🇸 United States of America"
+    ],
+    "seniority": "Manager"
+  },
+  {
+    "id": "https://weworkremotely.com/remote-jobs/anthropic-capacity-deployment-lead-data-center-operations",
+    "title": "Capacity Deployment Lead - Data Center Operations",
+    "company": "Anthropic",
+    "location": "Remote-Friendly, United States; San Francisco, CA | New York City, NY | Washington, DC",
+    "date": "New",
+    "description": "Capacity Deployment Lead - Data Center Operations at Anthropic. Location: Remote-Friendly, United States; San Francisco, CA | New York City, NY | Washington, DC.",
+    "url": "https://weworkremotely.com/remote-jobs/anthropic-capacity-deployment-lead-data-center-operations",
+    "tags": [
+      "Full-Time",
+      "🇺🇸 United States of America"
+    ],
+    "seniority": "Senior"
+  },
+  {
+    "id": "https://weworkremotely.com/remote-jobs/paragon-planners-part-time-remote-administrative-scheduler",
+    "title": "PART-TIME Remote Administrative Scheduler",
+    "company": "Paragon Planners",
+    "location": "Oregon",
+    "date": "New",
+    "description": "PART-TIME Remote Administrative Scheduler at Paragon Planners. Location: Oregon.",
+    "url": "https://weworkremotely.com/remote-jobs/paragon-planners-part-time-remote-administrative-scheduler",
+    "tags": [
+      "Full-Time",
+      "Anywhere in the World"
+    ],
+    "seniority": "Entry-Level"
+  },
+  {
+    "id": "https://weworkremotely.com/remote-jobs/gong-io-ix-enterprise-revenue-architect-financial-services",
+    "title": "IX Enterprise Revenue Architect - Financial Services",
+    "company": "Gong.io",
+    "location": "Remote (US)",
+    "date": "1d",
+    "description": "IX Enterprise Revenue Architect - Financial Services at Gong.io. Location: Remote (US).",
+    "url": "https://weworkremotely.com/remote-jobs/gong-io-ix-enterprise-revenue-architect-financial-services",
+    "tags": [
+      "Full-Time",
+      "Anywhere in the World"
+    ],
+    "seniority": "Senior"
+  },
+  {
+    "id": "https://weworkremotely.com/remote-jobs/upgrade-dealer-development-manager-nashville-tn",
+    "title": "Dealer Development Manager (Nashville, TN)",
+    "company": "Upgrade",
+    "location": "United States (Remote)",
+    "date": "1d",
+    "description": "Dealer Development Manager (Nashville, TN) at Upgrade. Location: United States (Remote).",
+    "url": "https://weworkremotely.com/remote-jobs/upgrade-dealer-development-manager-nashville-tn",
+    "tags": [
+      "Full-Time",
+      "Anywhere in the World"
+    ],
+    "seniority": "Manager"
+  },
+  {
     "id": "https://weworkremotely.com/remote-jobs/vercel-senior-manager-solutions-architect",
     "title": "Senior Manager, Solutions Architect",
     "company": "Vercel",
@@ -11,7 +408,7 @@
       "Full-Time",
       "Anywhere in the World"
     ],
-    "seniority": "Manager"
+    "seniority": "Senior"
   },
   {
     "id": "https://weworkremotely.com/remote-jobs/vercel-security-engineer-cloud",
@@ -102,7 +499,7 @@
     "title": "DevOps Engineer (Remote)",
     "company": "thehivecareers.co",
     "location": "Bridgetown, Saint Michael, Barbados",
-    "date": "8d",
+    "date": "9d",
     "description": "DevOps Engineer (Remote) at thehivecareers.co. Location: Bridgetown, Saint Michael, Barbados.",
     "url": "https://weworkremotely.com/remote-jobs/thehivecareers-co-devops-engineer-remote",
     "tags": [
@@ -124,7 +521,7 @@
       "Full-Time",
       "Anywhere in the World"
     ],
-    "seniority": "Junior"
+    "seniority": "Entry-Level"
   },
   {
     "id": "https://weworkremotely.com/remote-jobs/huntress-sales-development-representative-mid-market",
@@ -291,7 +688,7 @@
     "title": "Framer Website Designer",
     "company": "Air Apps",
     "location": "Helsinki",
-    "date": "4d",
+    "date": "5d",
     "description": "Framer Website Designer at Air Apps. Location: Helsinki.",
     "url": "https://weworkremotely.com/remote-jobs/air-apps-framer-website-designer-1",
     "tags": [
@@ -304,7 +701,7 @@
     "title": "Web Development Project Manager",
     "company": "Wisevu",
     "location": "Bosnia And Herzegovina",
-    "date": "4d",
+    "date": "5d",
     "description": "Web Development Project Manager at Wisevu. Location: Bosnia And Herzegovina.",
     "url": "https://weworkremotely.com/remote-jobs/wisevu-web-development-project-manager",
     "tags": [
@@ -318,7 +715,7 @@
     "title": "Chief Actuary",
     "company": "Clover Health",
     "location": "NY, United States",
-    "date": "1d",
+    "date": "2d",
     "description": "Chief Actuary at Clover Health. Location: NY, United States.",
     "url": "https://weworkremotely.com/remote-jobs/clover-health-chief-actuary",
     "tags": [
@@ -392,7 +789,7 @@
       "Full-Time",
       "Anywhere in the World"
     ],
-    "seniority": "Entry-Level"
+    "seniority": "Unknown"
   },
   {
     "id": "https://weworkremotely.com/remote-jobs/clover-health-chairman-programs-lead",
@@ -469,7 +866,7 @@
     "title": "Marketing Automation SaaS + Services Line of Business Owner",
     "company": "New Law Business Model",
     "location": "Boulder, CO",
-    "date": "13d",
+    "date": "14d",
     "description": "Marketing Automation SaaS + Services Line of Business Owner at New Law Business Model. Location: Boulder, CO.",
     "url": "https://weworkremotely.com/remote-jobs/new-law-business-model-marketing-automation-saas-services-line-of-business-owner",
     "tags": [
@@ -491,7 +888,7 @@
       "$100,000 or more USD",
       "Anywhere in the World"
     ],
-    "seniority": "Senior"
+    "seniority": "Manager"
   },
   {
     "id": "https://weworkremotely.com/remote-jobs/salesloft-people-operations-generalist",
@@ -548,7 +945,7 @@
       "Contract",
       "Anywhere in the World"
     ],
-    "seniority": "Senior"
+    "seniority": "Executive"
   },
   {
     "id": "https://weworkremotely.com/remote-jobs/spiralyze-project-manager-1",
@@ -606,404 +1003,7 @@
       "Full-Time",
       "Anywhere in the World"
     ],
-    "seniority": "Entry-Level"
-  },
-  {
-    "id": "https://weworkremotely.com/remote-jobs/lawnstarter-analytics-engineering-manager-data-platform-governance-2",
-    "title": "Analytics Engineering Manager, Data Platform & Governance",
-    "company": "LawnStarter",
-    "location": "Mexico",
-    "date": "2d",
-    "description": "Analytics Engineering Manager, Data Platform & Governance at LawnStarter. Location: Mexico.",
-    "url": "https://weworkremotely.com/remote-jobs/lawnstarter-analytics-engineering-manager-data-platform-governance-2",
-    "tags": [
-      "Featured",
-      "Top 100",
-      "Full-Time",
-      "Anywhere in the World"
-    ],
-    "seniority": "Manager"
-  },
-  {
-    "id": "https://weworkremotely.com/remote-jobs/capital-placement-remote-internships",
-    "title": "Remote Internships",
-    "company": "Capital Placement",
-    "location": "London, UK",
-    "date": "4d",
-    "description": "Remote Internships at Capital Placement. Location: London, UK.",
-    "url": "https://weworkremotely.com/remote-jobs/capital-placement-remote-internships",
-    "tags": [
-      "Featured",
-      "Full-Time",
-      "Anywhere in the World"
-    ],
-    "seniority": "Entry-Level"
-  },
-  {
-    "id": "https://weworkremotely.com/remote-jobs/toptal-enterprise-sales-development-representative",
-    "title": "Enterprise Sales Development Representative",
-    "company": "Toptal",
-    "location": "remote",
-    "date": "3d",
-    "description": "Enterprise Sales Development Representative at Toptal. Location: remote.",
-    "url": "https://weworkremotely.com/remote-jobs/toptal-enterprise-sales-development-representative",
-    "tags": [
-      "Boosted",
-      "Featured",
-      "Top 100",
-      "Full-Time",
-      "Anywhere in the World"
-    ],
-    "seniority": "Entry-Level"
-  },
-  {
-    "id": "https://weworkremotely.com/remote-jobs/toptal-client-advisor",
-    "title": "Client Advisor",
-    "company": "Toptal",
-    "location": "remote",
-    "date": "3d",
-    "description": "Client Advisor at Toptal. Location: remote.",
-    "url": "https://weworkremotely.com/remote-jobs/toptal-client-advisor",
-    "tags": [
-      "Boosted",
-      "Featured",
-      "Top 100",
-      "Full-Time",
-      "Anywhere in the World"
-    ],
-    "seniority": "Junior"
-  },
-  {
-    "id": "https://weworkremotely.com/remote-jobs/prove-sales-engineer-partnerships",
-    "title": "Sales Engineer - Partnerships",
-    "company": "Prove",
-    "location": "United States (Remote)",
-    "date": "4d",
-    "description": "Sales Engineer - Partnerships at Prove. Location: United States (Remote).",
-    "url": "https://weworkremotely.com/remote-jobs/prove-sales-engineer-partnerships",
-    "tags": [
-      "Boosted",
-      "Featured",
-      "Full-Time",
-      "Anywhere in the World"
-    ],
     "seniority": "Mid-Level"
-  },
-  {
-    "id": "https://weworkremotely.com/remote-jobs/lawnstarter-analytics-engineering-manager-data-platform-governance-1",
-    "title": "Analytics Engineering Manager, Data Platform & Governance",
-    "company": "LawnStarter",
-    "location": "Mexico",
-    "date": "15d",
-    "description": "Analytics Engineering Manager, Data Platform & Governance at LawnStarter. Location: Mexico.",
-    "url": "https://weworkremotely.com/remote-jobs/lawnstarter-analytics-engineering-manager-data-platform-governance-1",
-    "tags": [
-      "Featured",
-      "Top 100",
-      "Full-Time",
-      "Anywhere in the World"
-    ],
-    "seniority": "Manager"
-  },
-  {
-    "id": "https://weworkremotely.com/remote-jobs/lawnstarter-analytics-engineering-manager-data-platform-governance",
-    "title": "Analytics Engineering Manager, Data Platform & Governance",
-    "company": "LawnStarter",
-    "location": "Mexico",
-    "date": "15d",
-    "description": "Analytics Engineering Manager, Data Platform & Governance at LawnStarter. Location: Mexico.",
-    "url": "https://weworkremotely.com/remote-jobs/lawnstarter-analytics-engineering-manager-data-platform-governance",
-    "tags": [
-      "Featured",
-      "Top 100",
-      "Full-Time",
-      "Anywhere in the World"
-    ],
-    "seniority": "Manager"
-  },
-  {
-    "id": "https://weworkremotely.com/remote-jobs/lawnstarter-software-engineering-manager-6",
-    "title": "Software Engineering Manager",
-    "company": "LawnStarter",
-    "location": "Mexico",
-    "date": "29d",
-    "description": "Software Engineering Manager at LawnStarter. Location: Mexico.",
-    "url": "https://weworkremotely.com/remote-jobs/lawnstarter-software-engineering-manager-6",
-    "tags": [
-      "Featured",
-      "Top 100",
-      "Full-Time",
-      "Anywhere in the World"
-    ],
-    "seniority": "Manager"
-  },
-  {
-    "id": "https://weworkremotely.com/remote-jobs/aitrainers-remote-ai-trainers-generalist-finance-law-and-swe",
-    "title": "Remote AI Trainers (Generalist, Finance, Law, and SWE)",
-    "company": "AITrainers",
-    "location": "Delaware",
-    "date": "6d",
-    "description": "Remote AI Trainers (Generalist, Finance, Law, and SWE) at AITrainers. Location: Delaware.",
-    "url": "https://weworkremotely.com/remote-jobs/aitrainers-remote-ai-trainers-generalist-finance-law-and-swe",
-    "tags": [
-      "Featured",
-      "Contract",
-      "🇦🇺 Australia",
-      "🇨🇦 Canada",
-      "🇨🇭 Switzerland",
-      "🇬🇧 United Kingdom of Great Britain and Northern Ireland",
-      "🇮🇪 Ireland",
-      "🇳🇿 New Zealand",
-      "🇺🇸 United States of America"
-    ],
-    "seniority": "Entry-Level"
-  },
-  {
-    "id": "https://weworkremotely.com/remote-jobs/prowritersites-freelance-writer",
-    "title": "Freelance Writer",
-    "company": "ProWriterSites",
-    "location": "New York",
-    "date": "13d",
-    "description": "Freelance Writer at ProWriterSites. Location: New York.",
-    "url": "https://weworkremotely.com/remote-jobs/prowritersites-freelance-writer",
-    "tags": [
-      "Featured",
-      "Contract",
-      "Anywhere in the World"
-    ],
-    "seniority": "Unknown"
-  },
-  {
-    "id": "https://weworkremotely.com/remote-jobs/databricks-solutions-architect",
-    "title": "Solutions Architect",
-    "company": "Databricks",
-    "location": "Remote",
-    "date": "14d",
-    "description": "Solutions Architect at Databricks. Location: Remote.",
-    "url": "https://weworkremotely.com/remote-jobs/databricks-solutions-architect",
-    "tags": [
-      "Featured",
-      "Full-Time",
-      "$100,000 or more USD",
-      "🇺🇸 United States of America"
-    ],
-    "seniority": "Senior"
-  },
-  {
-    "id": "https://weworkremotely.com/remote-jobs/6sense-senior-customer-success-manager",
-    "title": "Senior Customer Success Manager",
-    "company": "6sense",
-    "location": "Remote",
-    "date": "15d",
-    "description": "Senior Customer Success Manager at 6sense. Location: Remote.",
-    "url": "https://weworkremotely.com/remote-jobs/6sense-senior-customer-success-manager",
-    "tags": [
-      "Featured",
-      "Full-Time",
-      "$100,000 or more USD",
-      "🇺🇸 United States of America"
-    ],
-    "seniority": "Senior"
-  },
-  {
-    "id": "https://weworkremotely.com/remote-jobs/empire-assets-junior-crypto-analyst-trader",
-    "title": "Junior Crypto Analyst & Trader",
-    "company": "EMPIRE ASSETS",
-    "location": "EMPIRE ASSETS",
-    "date": "17d",
-    "description": "Junior Crypto Analyst & Trader at EMPIRE ASSETS. Location: EMPIRE ASSETS.",
-    "url": "https://weworkremotely.com/remote-jobs/empire-assets-junior-crypto-analyst-trader",
-    "tags": [
-      "Boosted",
-      "Featured",
-      "Full-Time",
-      "$50,000 - $74,999 USD",
-      "Anywhere in the World"
-    ],
-    "seniority": "Junior"
-  },
-  {
-    "id": "https://weworkremotely.com/remote-jobs/collibra-director-global-payroll",
-    "title": "Director, Global Payroll",
-    "company": "Collibra",
-    "location": "Remote",
-    "date": "21d",
-    "description": "Director, Global Payroll at Collibra. Location: Remote.",
-    "url": "https://weworkremotely.com/remote-jobs/collibra-director-global-payroll",
-    "tags": [
-      "Featured",
-      "Full-Time",
-      "$100,000 or more USD",
-      "🇺🇸 United States of America"
-    ],
-    "seniority": "Manager"
-  },
-  {
-    "id": "https://weworkremotely.com/remote-jobs/toptal-professional-photoshop-artists",
-    "title": "Professional Photoshop Artists",
-    "company": "Toptal",
-    "location": "remote",
-    "date": "21d",
-    "description": "Professional Photoshop Artists at Toptal. Location: remote.",
-    "url": "https://weworkremotely.com/remote-jobs/toptal-professional-photoshop-artists",
-    "tags": [
-      "Boosted",
-      "Featured",
-      "Top 100",
-      "Contract",
-      "Anywhere in the World"
-    ],
-    "seniority": "Unknown"
-  },
-  {
-    "id": "https://weworkremotely.com/remote-jobs/nvidia-global-immigration-specialist",
-    "title": "Global Immigration Specialist",
-    "company": "NVIDIA",
-    "location": "Remote",
-    "date": "24d",
-    "description": "Global Immigration Specialist at NVIDIA. Location: Remote.",
-    "url": "https://weworkremotely.com/remote-jobs/nvidia-global-immigration-specialist",
-    "tags": [
-      "Featured",
-      "Full-Time",
-      "$100,000 or more USD",
-      "🇨🇦 Canada",
-      "🇺🇸 United States of America"
-    ],
-    "seniority": "Mid-Level"
-  },
-  {
-    "id": "https://weworkremotely.com/remote-jobs/zoom-solutions-consultant",
-    "title": "Solutions Consultant",
-    "company": "Zoom",
-    "location": "Remote",
-    "date": "24d",
-    "description": "Solutions Consultant at Zoom. Location: Remote.",
-    "url": "https://weworkremotely.com/remote-jobs/zoom-solutions-consultant",
-    "tags": [
-      "Featured",
-      "Full-Time",
-      "$100,000 or more USD",
-      "🇺🇸 United States of America"
-    ],
-    "seniority": "Mid-Level"
-  },
-  {
-    "id": "https://weworkremotely.com/remote-jobs/nogigiddy-remote-data-entry-clerk-7",
-    "title": "Remote Data Entry Clerk",
-    "company": "NoGigiddy",
-    "location": "Atlanta, Georgia",
-    "date": "26d",
-    "description": "Remote Data Entry Clerk at NoGigiddy. Location: Atlanta, Georgia.",
-    "url": "https://weworkremotely.com/remote-jobs/nogigiddy-remote-data-entry-clerk-7",
-    "tags": [
-      "Featured",
-      "Top 100",
-      "Contract",
-      "Anywhere in the World"
-    ],
-    "seniority": "Entry-Level"
-  },
-  {
-    "id": "https://weworkremotely.com/remote-jobs/dataannotation-tech-ft-pt-remote-ai-prompt-engineering-evaluation-will-train",
-    "title": "FT/PT Remote AI Prompt Engineering & Evaluation - Will Train",
-    "company": "DataAnnotation.tech",
-    "location": "New York, NY",
-    "date": "30d",
-    "description": "FT/PT Remote AI Prompt Engineering & Evaluation - Will Train at DataAnnotation.tech. Location: New York, NY.",
-    "url": "https://weworkremotely.com/remote-jobs/dataannotation-tech-ft-pt-remote-ai-prompt-engineering-evaluation-will-train",
-    "tags": [
-      "Featured",
-      "Contract",
-      "North America Only",
-      "EMEA Only",
-      "Asia Only"
-    ],
-    "seniority": "Entry-Level"
-  },
-  {
-    "id": "https://weworkremotely.com/remote-jobs/clover-health-commercial-partnerships-operations-director",
-    "title": "Commercial Partnerships & Operations Director",
-    "company": "Clover Health",
-    "location": "NY, United States",
-    "date": "New",
-    "description": "Commercial Partnerships & Operations Director at Clover Health. Location: NY, United States.",
-    "url": "https://weworkremotely.com/remote-jobs/clover-health-commercial-partnerships-operations-director",
-    "tags": [
-      "Full-Time",
-      "Anywhere in the World"
-    ],
-    "seniority": "Senior"
-  },
-  {
-    "id": "https://weworkremotely.com/remote-jobs/anthropic-community-engagement-manager-data-centers-texas",
-    "title": "Community Engagement Manager, Data Centers (Texas)",
-    "company": "Anthropic",
-    "location": "Remote-Friendly, United States; San Francisco, CA | New York City, NY | Washington, DC",
-    "date": "New",
-    "description": "Community Engagement Manager, Data Centers (Texas) at Anthropic. Location: Remote-Friendly, United States; San Francisco, CA | New York City, NY | Washington, DC.",
-    "url": "https://weworkremotely.com/remote-jobs/anthropic-community-engagement-manager-data-centers-texas",
-    "tags": [
-      "Full-Time",
-      "🇺🇸 United States of America"
-    ],
-    "seniority": "Manager"
-  },
-  {
-    "id": "https://weworkremotely.com/remote-jobs/anthropic-capacity-deployment-lead-data-center-operations",
-    "title": "Capacity Deployment Lead - Data Center Operations",
-    "company": "Anthropic",
-    "location": "Remote-Friendly, United States; San Francisco, CA | New York City, NY | Washington, DC",
-    "date": "New",
-    "description": "Capacity Deployment Lead - Data Center Operations at Anthropic. Location: Remote-Friendly, United States; San Francisco, CA | New York City, NY | Washington, DC.",
-    "url": "https://weworkremotely.com/remote-jobs/anthropic-capacity-deployment-lead-data-center-operations",
-    "tags": [
-      "Full-Time",
-      "🇺🇸 United States of America"
-    ],
-    "seniority": "Senior"
-  },
-  {
-    "id": "https://weworkremotely.com/remote-jobs/paragon-planners-part-time-remote-administrative-scheduler",
-    "title": "PART-TIME Remote Administrative Scheduler",
-    "company": "Paragon Planners",
-    "location": "Oregon",
-    "date": "New",
-    "description": "PART-TIME Remote Administrative Scheduler at Paragon Planners. Location: Oregon.",
-    "url": "https://weworkremotely.com/remote-jobs/paragon-planners-part-time-remote-administrative-scheduler",
-    "tags": [
-      "Full-Time",
-      "Anywhere in the World"
-    ],
-    "seniority": "Entry-Level"
-  },
-  {
-    "id": "https://weworkremotely.com/remote-jobs/gong-io-ix-enterprise-revenue-architect-financial-services",
-    "title": "IX Enterprise Revenue Architect - Financial Services",
-    "company": "Gong.io",
-    "location": "Remote (US)",
-    "date": "1d",
-    "description": "IX Enterprise Revenue Architect - Financial Services at Gong.io. Location: Remote (US).",
-    "url": "https://weworkremotely.com/remote-jobs/gong-io-ix-enterprise-revenue-architect-financial-services",
-    "tags": [
-      "Full-Time",
-      "Anywhere in the World"
-    ],
-    "seniority": "Senior"
-  },
-  {
-    "id": "https://weworkremotely.com/remote-jobs/upgrade-dealer-development-manager-nashville-tn",
-    "title": "Dealer Development Manager (Nashville, TN)",
-    "company": "Upgrade",
-    "location": "United States (Remote)",
-    "date": "1d",
-    "description": "Dealer Development Manager (Nashville, TN) at Upgrade. Location: United States (Remote).",
-    "url": "https://weworkremotely.com/remote-jobs/upgrade-dealer-development-manager-nashville-tn",
-    "tags": [
-      "Full-Time",
-      "Anywhere in the World"
-    ],
-    "seniority": "Manager"
   },
   {
     "id": "https://weworkremotely.com/remote-jobs/limitless-technology-japanese-speaking-customer-service-agent-for-netflix-japan",
@@ -1124,7 +1124,7 @@
     "title": "Technical Account Manager, API Partnerships",
     "company": "Shout About Us",
     "location": "San Diego, CA, USA",
-    "date": "3d",
+    "date": "4d",
     "description": "Technical Account Manager, API Partnerships at Shout About Us. Location: San Diego, CA, USA.",
     "url": "https://weworkremotely.com/remote-jobs/shout-about-us-technical-account-manager-api-partnerships",
     "tags": [
@@ -1154,7 +1154,7 @@
     "title": "Benefits Verification Specialist ( Call Center Agent- REMOTE)-Must have your own computer",
     "company": "MMC Group",
     "location": "MMC Group",
-    "date": "4d",
+    "date": "5d",
     "description": "Benefits Verification Specialist ( Call Center Agent- REMOTE)-Must have your own computer at MMC Group. Location: MMC Group.",
     "url": "https://weworkremotely.com/remote-jobs/mmc-group-benefits-verification-specialist-call-center-agent-remote-must-have-your-own-computer",
     "tags": [
@@ -1207,7 +1207,7 @@
       "Full-Time",
       "Anywhere in the World"
     ],
-    "seniority": "Mid-Level"
+    "seniority": "Manager"
   },
   {
     "id": "https://weworkremotely.com/remote-jobs/pagerduty-account-manager-boston",
@@ -1221,7 +1221,7 @@
       "Full-Time",
       "Anywhere in the World"
     ],
-    "seniority": "Mid-Level"
+    "seniority": "Manager"
   },
   {
     "id": "https://weworkremotely.com/remote-jobs/ping-identity-customer-success-manager-1",
@@ -1291,7 +1291,7 @@
       "Full-Time",
       "Anywhere in the World"
     ],
-    "seniority": "Mid-Level"
+    "seniority": "Manager"
   },
   {
     "id": "https://weworkremotely.com/remote-jobs/tines-lead-customer-success-manager-west",
@@ -1312,7 +1312,7 @@
     "title": "SaaS Client Success Manager",
     "company": "ITI Digital",
     "location": "US-Florida",
-    "date": "15d",
+    "date": "16d",
     "description": "SaaS Client Success Manager at ITI Digital. Location: US-Florida.",
     "url": "https://weworkremotely.com/remote-jobs/iti-digital-saas-client-success-manager",
     "tags": [
@@ -1441,7 +1441,7 @@
       "Full-Time",
       "Anywhere in the World"
     ],
-    "seniority": "Mid-Level"
+    "seniority": "Entry-Level"
   },
   {
     "id": "https://weworkremotely.com/remote-jobs/calm-com-senior-product-designer",
@@ -1553,7 +1553,7 @@
       "Full-Time",
       "Anywhere in the World"
     ],
-    "seniority": "Junior"
+    "seniority": "Entry-Level"
   },
   {
     "id": "https://weworkremotely.com/remote-jobs/ewor-agentic-ai-design-engineer-100-remote-m-f-d",
@@ -1586,7 +1586,7 @@
     "title": "Senior VMware Engineer",
     "company": "EPAM Systems",
     "location": "Belarus",
-    "date": "4d",
+    "date": "5d",
     "description": "Senior VMware Engineer at EPAM Systems. Location: Belarus.",
     "url": "https://weworkremotely.com/remote-jobs/epam-systems-senior-vmware-engineer",
     "tags": [
@@ -1600,7 +1600,7 @@
     "title": "Electrical Design Engineer (Albania)",
     "company": "Ehvert Engineering a Salas O'Brien company",
     "location": "Tirana, AL",
-    "date": "4d",
+    "date": "5d",
     "description": "Electrical Design Engineer (Albania) at Ehvert Engineering a Salas O'Brien company. Location: Tirana, AL.",
     "url": "https://weworkremotely.com/remote-jobs/ehvert-engineering-a-salas-o-brien-company-electrical-design-engineer-albania",
     "tags": [
@@ -1898,7 +1898,7 @@
       "Full-Time",
       "🇺🇸 United States of America"
     ],
-    "seniority": "Manager"
+    "seniority": "Senior"
   },
   {
     "id": "https://weworkremotely.com/remote-jobs/fin-account-executive-enterprise",
@@ -2024,14 +2024,14 @@
       "Full-Time",
       "Anywhere in the World"
     ],
-    "seniority": "Senior"
+    "seniority": "Manager"
   },
   {
     "id": "https://weworkremotely.com/remote-jobs/card-conduit-digital-marketing-manager",
     "title": "Digital Marketing Manager",
     "company": "Card Conduit",
     "location": "Salt Lake City, UT",
-    "date": "3d",
+    "date": "4d",
     "description": "Digital Marketing Manager at Card Conduit. Location: Salt Lake City, UT.",
     "url": "https://weworkremotely.com/remote-jobs/card-conduit-digital-marketing-manager",
     "tags": [
@@ -2303,7 +2303,7 @@
       "Full-Time",
       "🇺🇸 United States of America"
     ],
-    "seniority": "Executive"
+    "seniority": "Senior"
   },
   {
     "id": "https://weworkremotely.com/remote-jobs/discord-engineering-manager-machine-learning-safety",
@@ -2526,26 +2526,11 @@
     "seniority": "Mid-Level"
   },
   {
-    "id": "https://weworkremotely.com/remote-jobs/princeton-university-senior-peoplesoft-developer-analyst-ii",
-    "title": "Senior PeopleSoft Developer/Analyst II",
-    "company": "Princeton University",
-    "location": "Princeton, New Jersey, United States",
-    "date": "30d",
-    "description": "Senior PeopleSoft Developer/Analyst II at Princeton University. Location: Princeton, New Jersey, United States.",
-    "url": "https://weworkremotely.com/remote-jobs/princeton-university-senior-peoplesoft-developer-analyst-ii",
-    "tags": [
-      "Full-Time",
-      "$100,000 or more USD",
-      "Anywhere in the World"
-    ],
-    "seniority": "Senior"
-  },
-  {
     "id": "https://weworkremotely.com/remote-jobs/reddit-group-product-manager-finance-technology",
     "title": "Group Product Manager, Finance Technology",
     "company": "Reddit",
     "location": "Remote",
-    "date": "26d",
+    "date": "27d",
     "description": "Group Product Manager, Finance Technology at Reddit. Location: Remote.",
     "url": "https://weworkremotely.com/remote-jobs/reddit-group-product-manager-finance-technology",
     "tags": [
@@ -2623,7 +2608,7 @@
     "tags": [
       "Full-Time"
     ],
-    "seniority": "Mid-Level"
+    "seniority": "Unknown"
   },
   {
     "id": "https://weworkremotely.com/remote-jobs/flosum-saas-revenue-financial-analyst-flosum-belarus",
@@ -2637,7 +2622,7 @@
       "Full-Time",
       "Anywhere in the World"
     ],
-    "seniority": "Entry-Level"
+    "seniority": "Junior"
   },
   {
     "id": "https://weworkremotely.com/remote-jobs/softswiss-business-development-manager",
@@ -2711,7 +2696,7 @@
       "🇸🇰 Slovakia",
       "🇺🇦 Ukraine"
     ],
-    "seniority": "Senior"
+    "seniority": "Unknown"
   },
   {
     "id": "https://weworkremotely.com/remote-jobs/squarespace-senior-product-director-client-engagement-group",
@@ -3013,7 +2998,7 @@
     "title": "Lead Developer — Rebuild, Modernize, & Scale (Social Good SaaS, Remote)",
     "company": "Track it Forward",
     "location": "Oakland, CA",
-    "date": "28d",
+    "date": "29d",
     "description": "Lead Developer — Rebuild, Modernize, & Scale (Social Good SaaS, Remote) at Track it Forward. Location: Oakland, CA.",
     "url": "https://weworkremotely.com/remote-jobs/track-it-forward-lead-developer-rebuild-modernize-scale-social-good-saas-remote",
     "tags": [

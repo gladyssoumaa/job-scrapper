@@ -21,64 +21,36 @@ The objectives of this project are to:
 
 ## 2. Data Source
 
-### Remote OK
+### We Work Remotely
 
-The project uses [Remote OK](https://remoteok.com/) as its job-posting source.
+The project uses [We Work Remotely](https://weworkremotely.com/) as its job-posting source.
 
-Remote OK is a public remote-job platform containing job listings across areas such as software development, design, marketing, finance, education, and other fields.
-The information is collected from publicly accessible job pages.
+### Responsible Scraping
 
-## 3. Why Remote OK?
+The project follows several responsible scraping practices when collecting job listings.
 
-Remote OK was selected because:
+#### Robots.txt
 
-* Its job listings are publicly accessible.
-* The website contains a large number of job postings.
-* Job listings contain useful information such as job title, company, location, date, and description.
-* The website provides a `robots.txt` file that specifies crawling rules.
-* The site's current `robots.txt` specifies a crawl delay of 1 second for the general user-agent group.
-* The scraper does not allow AJAX/query endpoints 
+Before requesting each target page, the scraper checks the website's `robots.txt` rules to determine whether the page can be accessed by the scraper.
 
-The project uses the publicly accessible HTML job pages and follows the crawling restrictions specified by Remote OK.
+#### Request Delay
 
+A delay is added between requests to avoid sending requests continuously and to reduce unnecessary load on the website.
 
-## 4. Scraping and Responsible Data Collection
-
-Before scraping, the application checks:
-
-`https://remoteok.com/robots.txt`
-
-The current robots.txt contains:
-
-```
-User-agent: *
-Crawl-delay: 1
-Allow: /
-```
-
-It also disallows certain AJAX/query endpoints, including endpoints containing:
-
-```
-?action=get_jobs
-```
-
-The scraper will not request these disallowed endpoints.
-The scraper also waits at least one second between requests in accordance with the crawl-delay specified by the site's robots.txt.
-The project only collects information needed for the assignment.
+The current delay is 1 second
 
 
 ## 5. Technologies Used
 
-* TypeScript
-* Node.js
+* TypeScript - main programming language
+* Node.js - runtime environment
 * Axios - http requests
 * Cheerio - parsing html
-* AI/NLP model for skill extraction
-* JSON
-* Git
-* GitHub
+* robots-parser - robots.txt checking
+* Groq SDK - communication with the AI model
+* JSON - storing collected and classified job data
+* CSV Parse - reading the manual validation CSV
 
----
 
 ## 6. Project Structure
 
@@ -136,20 +108,19 @@ Example:
 
 ```json
 {
-  "id": "example-001",
-  "title": "Backend Developer",
-  "company": "Example Company",
-  "location": "Remote",
-  "date": "2026-10-01",
-  "description": "We are looking for a backend developer with experience in Python, APIs and PostgreSQL.",
-  "url": "https://remoteok.com/example",
-  "tags": ["python", "backend"],
-  "skills": [
-    "Python",
-    "REST APIs",
-    "PostgreSQL"
-  ]
-}
+    "id": "https://weworkremotely.com/remote-jobs/passive-income-dentist-director-of-operations-full-time-remote-north-america",
+    "title": "Director of Operations — Full-Time | Remote (North America)",
+    "company": "Passive Income Dentist",
+    "location": "Tennesse",
+    "date": "14d",
+    "description": "Director of Operations — Full-Time | Remote (North America) at Passive Income Dentist. Location: Tennesse.",
+    "url": "https://weworkremotely.com/remote-jobs/passive-income-dentist-director-of-operations-full-time-remote-north-america",
+    "tags": [
+      "Full-Time",
+      "$100,000 or more USD",
+      "Anywhere in the World"
+    ]
+  }
 ```
 
 
@@ -197,7 +168,7 @@ npm run build
 
 The scraper follows these steps:
 
-1. Request the Remote OK `robots.txt` file.
+1. Request the we work remotely  `robots.txt` file.
 2. Check the relevant crawling rules.
 3. Identify publicly accessible job pages.
 4. Request job pages one at a time.
@@ -285,19 +256,7 @@ Correct predictions: 16
 Incorrect predictions: 15
 Accuracy: 51.61%
 
-# Responsible Scraping
 
-The project follows several responsible scraping practices when collecting job listings.
-
-### Robots.txt
-
-Before requesting each target page, the scraper checks the website's `robots.txt` rules to determine whether the page can be accessed by the scraper.
-
-### Request Delay
-
-A delay is added between requests to avoid sending requests continuously and to reduce unnecessary load on the website.
-
-The current delay is 1 second
 
 
 
